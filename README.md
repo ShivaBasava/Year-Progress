@@ -7,4 +7,5 @@
   - It consists of mainly three files:
     - yearProgress.html - A HTML file which consists the view of a Progress-Bar & a Button.
     - yearCSS.css - A CSS file which consists of the look and feel or visual feels for the above html.
-    - yearJS.js - A JavaScript file which consists the logic for thr ```Button``` on html page.
+    - yearJS.js - A JavaScript file which consists the logic for the ```Button``` on html page.
+    - Attached Before & After clips of the executed scenario for the same.
